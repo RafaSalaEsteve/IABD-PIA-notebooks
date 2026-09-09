@@ -18,6 +18,13 @@ No contiene soluciones, exámenes ni material del profesorado.
 | UD1 | `UD1_01_repaso_python.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD1/UD1_01_repaso_python.ipynb) |
 | UD1 | `UD1_02_estructuras_datos.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD1/UD1_02_estructuras_datos.ipynb) |
 | UD1 | `UD1_03_marcado_datos.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD1/UD1_03_marcado_datos.ipynb) |
+| UD2 | `UD2_01_peticiones_http_y_json.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD2/UD2_01_peticiones_http_y_json.ipynb) |
+| UD2 | `UD2_02_gestion_de_secretos.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD2/UD2_02_gestion_de_secretos.ipynb) |
+| UD2 | `UD2_03_texto_azure_language.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD2/UD2_03_texto_azure_language.ipynb) |
+| UD2 | `UD2_04_imagen_azure_vision.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD2/UD2_04_imagen_azure_vision.ipynb) |
+| UD2 | `UD2_05_voz_azure_speech.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD2/UD2_05_voz_azure_speech.ipynb) |
+| UD2 | `UD2_06_streamlit_de_script_a_aplicacion.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD2/UD2_06_streamlit_de_script_a_aplicacion.ipynb) |
+| UD2 | `UD2_07_robustez_cache_y_despliegue.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD2/UD2_07_robustez_cache_y_despliegue.ipynb) |
 
 ---
 
