@@ -31,6 +31,12 @@ No contiene soluciones, exámenes ni material del profesorado.
 | UD3 | `UD3_04_pandas_groupby_y_series_temporales.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD3/UD3_04_pandas_groupby_y_series_temporales.ipynb) |
 | UD3 | `UD3_05_del_dataframe_al_modelo.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD3/UD3_05_del_dataframe_al_modelo.ipynb) |
 | UD3 | `UD3_06_analisis_exploratorio_guiado.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD3/UD3_06_analisis_exploratorio_guiado.ipynb) |
+| UD4 | `UD4_01_matplotlib_arquitectura_y_graficos.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD4/UD4_01_matplotlib_arquitectura_y_graficos.ipynb) |
+| UD4 | `UD4_02_matplotlib_estilo_color_rendimiento.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD4/UD4_02_matplotlib_estilo_color_rendimiento.ipynb) |
+| UD4 | `UD4_03_seaborn_estadistica_alto_nivel.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD4/UD4_03_seaborn_estadistica_alto_nivel.ipynb) |
+| UD4 | `UD4_04_plotly_interactivo.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD4/UD4_04_plotly_interactivo.ipynb) |
+| UD4 | `UD4_05_visualizar_para_evaluar.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD4/UD4_05_visualizar_para_evaluar.ipynb) |
+| UD4 | `UD4_06_graficos_honestos.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD4/UD4_06_graficos_honestos.ipynb) |
 
 ---
 

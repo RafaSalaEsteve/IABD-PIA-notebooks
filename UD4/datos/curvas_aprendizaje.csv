@@ -1,0 +1,17 @@
+modelo,n_entrenamiento,error_entrenamiento,error_validacion
+sobreajuste,40,0.034,0.37
+sobreajuste,80,0.0442,0.2826
+sobreajuste,150,0.0479,0.2087
+sobreajuste,300,0.0541,0.1708
+sobreajuste,600,0.0434,0.1222
+sobreajuste,1200,0.0572,0.1032
+sobreajuste,2400,0.0474,0.0842
+sobreajuste,4800,0.0544,0.0711
+subajuste,40,0.1522,0.1779
+subajuste,80,0.1885,0.2121
+subajuste,150,0.2182,0.2201
+subajuste,300,0.2216,0.2267
+subajuste,600,0.2333,0.2443
+subajuste,1200,0.2277,0.226
+subajuste,2400,0.2264,0.2234
+subajuste,4800,0.2297,0.2334
