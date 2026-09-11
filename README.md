@@ -37,6 +37,15 @@ No contiene soluciones, exámenes ni material del profesorado.
 | UD4 | `UD4_04_plotly_interactivo.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD4/UD4_04_plotly_interactivo.ipynb) |
 | UD4 | `UD4_05_visualizar_para_evaluar.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD4/UD4_05_visualizar_para_evaluar.ipynb) |
 | UD4 | `UD4_06_graficos_honestos.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD4/UD4_06_graficos_honestos.ipynb) |
+| UD5 | `UD5_01_tensores_y_capas.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_01_tensores_y_capas.ipynb) |
+| UD5 | `UD5_02_una_red_desde_cero.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_02_una_red_desde_cero.ipynb) |
+| UD5 | `UD5_03_keras_el_entorno_de_modelado.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_03_keras_el_entorno_de_modelado.ipynb) |
+| UD5 | `UD5_04_techstore_cuando_la_red_no_gana.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_04_techstore_cuando_la_red_no_gana.ipynb) |
+| UD5 | `UD5_05_curvas_regularizacion_y_retrollamadas.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_05_curvas_regularizacion_y_retrollamadas.ipynb) |
+| UD5 | `UD5_06_convolucion_y_cnn.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_06_convolucion_y_cnn.ipynb) |
+| UD5 | `UD5_07_aprendizaje_por_transferencia.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_07_aprendizaje_por_transferencia.ipynb) |
+| UD5 | `UD5_08_depuracion_y_puesta_en_servicio.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_08_depuracion_y_puesta_en_servicio.ipynb) |
+| UD5 | `UD5_modelo_roto.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_modelo_roto.ipynb) |
 
 ---
 
