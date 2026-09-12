@@ -46,6 +46,10 @@ No contiene soluciones, exámenes ni material del profesorado.
 | UD5 | `UD5_07_aprendizaje_por_transferencia.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_07_aprendizaje_por_transferencia.ipynb) |
 | UD5 | `UD5_08_depuracion_y_puesta_en_servicio.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_08_depuracion_y_puesta_en_servicio.ipynb) |
 | UD5 | `UD5_modelo_roto.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD5/UD5_modelo_roto.ipynb) |
+| UD6 | `UD6_01_la_capa_de_conectividad.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD6/UD6_01_la_capa_de_conectividad.ipynb) |
+| UD6 | `UD6_02_del_modelo_al_edge.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD6/UD6_02_del_modelo_al_edge.ipynb) |
+| UD6 | `UD6_03_donde_se_ejecuta_la_inferencia.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD6/UD6_03_donde_se_ejecuta_la_inferencia.ipynb) |
+| UD6 | `UD6_04_la_capa_de_confianza.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD6/UD6_04_la_capa_de_confianza.ipynb) |
 
 ---
 
