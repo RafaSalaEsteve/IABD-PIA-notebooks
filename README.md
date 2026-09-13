@@ -50,6 +50,10 @@ No contiene soluciones, exámenes ni material del profesorado.
 | UD6 | `UD6_02_del_modelo_al_edge.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD6/UD6_02_del_modelo_al_edge.ipynb) |
 | UD6 | `UD6_03_donde_se_ejecuta_la_inferencia.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD6/UD6_03_donde_se_ejecuta_la_inferencia.ipynb) |
 | UD6 | `UD6_04_la_capa_de_confianza.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD6/UD6_04_la_capa_de_confianza.ipynb) |
+| UD7 | `UD7_01_el_proceso_a_mano.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD7/UD7_01_el_proceso_a_mano.ipynb) |
+| UD7 | `UD7_02_cuatro_modelos.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD7/UD7_02_cuatro_modelos.ipynb) |
+| UD7 | `UD7_03_el_coste_del_error.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD7/UD7_03_el_coste_del_error.ipynb) |
+| UD7 | `UD7_04_cuando_compensa.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/RafaSalaEsteve/IABD-PIA-notebooks/blob/main/UD7/UD7_04_cuando_compensa.ipynb) |
 
 ---
 
